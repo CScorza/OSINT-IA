@@ -6,7 +6,7 @@
 
 ```
 Gli strumenti di I.A. sono ottimi supporto per l'attività dell'Analista OSINT.
-Ci permettono di diminuire il tempo di un attività di raccolta o per scredulare vari dati.
+Ci permettono di diminuire il tempo di un attività di raccolta o per schedulare vari dati.
 In linea generale possono dare un supporto per la redazione di report,
 trascrizione di file audio, analisi di video e supporto alla programmazione.
 ```
