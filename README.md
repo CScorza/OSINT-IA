@@ -24,8 +24,9 @@ Qui di seguito una lista di strumenti utili per le varie attività.
 | --- |
 |[**Chat.Hackerai.co**](https://chat.hackerai.co/it)|
 
-DanChatGPT
-[**DAN GPT**](https://hix.ai/it/hub/chatgpt/how-to-jailbreak-chatgpt)) - ***Come superare le Barriere di ChatGPT***
+***DanChatGPT***
+|[**DAN GPT**](https://hix.ai/it/hub/chatgpt/how-to-jailbreak-chatgpt)|***Come superare le Barriere di ChatGPT***|
+| --- | --- |
 
 **Per Scrivere**
 | --- |
@@ -33,6 +34,7 @@ DanChatGPT
 |[**ChatABC**](https://chatabc.ai)|
 |[**JasperAI**](https://www.jasper.ai)| 
 |[**Quillbot**](https://quillbot.com)|
+|[**ChatPDF**](https://www.chatpdf.com/)|
 
 **Supporto alla Programmazione** 
 | --- |
