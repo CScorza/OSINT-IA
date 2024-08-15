@@ -17,6 +17,7 @@ Qui di seguito una lista di strumenti utili per le varie attività.
 | --- |
 |[**ChatGPT**](https://chat.openai.com/auth/login)|
 |[**Gemini**](https://gemini.google.com/?hl=it)|
+|[**Stellar.ia**](https://stellar.chatastra.ai/)|
 
 ![1702076712754](https://github.com/CScorza/OSINT-I.A./assets/98583912/94c896ac-856e-4a1d-98d6-563bb861365a)
 
