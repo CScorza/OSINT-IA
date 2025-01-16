@@ -70,7 +70,8 @@ Below is a list of useful tools for various activities.
 |[**Tabnine**](https://www.tabnine.com)|
 |[**MutableAI**](https://mutable.ai)|
 |[**Safurai**](https://www.safurai.com)|
-|[**10Web**](https://10web.io/ai-website-builder)| 
+|[**10Web**](https://10web.io/ai-website-builder)|
+|[**cursor**](https://www.cursor.com)| 
 
 ![Migliori-linguaggi-programmazione](https://github.com/CScorza/OSINT-I.A./assets/98583912/1d273eb7-310e-4478-8d72-0273bcf6c516)
 
