@@ -53,7 +53,7 @@ Below is a list of useful tools for various activities.
 |[**Chat.Hackerai.co**](https://chat.hackerai.co/it)|
 
 ***DanChatGPT***
-|[**DAN GPT**](https://hix.ai/it/hub/chatgpt/how-to-jailbreak-chatgpt)|***Come superare le Barriere di ChatGPT***|
+|[**DAN GPT**](https://hix.ai/it/hub/chatgpt/how-to-jailbreak-chatgpt)|***How to Overcome ChatGPT Barriers***|
 | --- | --- |
 
 **To Write**
