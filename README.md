@@ -48,6 +48,7 @@ Below is a list of useful tools for various activities.
 | --- |
 |[**AI Tools kit**](https://aitoolskit.ai/)|
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Piattaforma open-source (GPL-3.0) di penetration testing autonomo guidato dall'IA (web, API, Active Directory, Kubernetes), self-hosted. Include una Privacy Gateway locale che tokenizza i dati sensibili in modo che l'LLM non veda mai i valori reali. Editore francese/europeo ASC-IT.
 **Hacking Chat I.A.**
 | --- |
 |[**Chat.Hackerai.co**](https://chat.hackerai.co/it)|
