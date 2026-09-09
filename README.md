@@ -110,6 +110,7 @@ Below is a list of useful tools for various activities.
 |[**ReziAI**](https://www.rezi.ai)|
 |[**ResumeAI**](https://www.resumai.com)|
 |[**EnhanceCV**](https://enhancv.com)|
+|[**ResumeAI (withresumeai)**](https://withresumeai.com/)|
 
 ![2024-04-21 10_30_58-Esempio di un Curriculum Vitae_ ecco come compilarlo passo passo](https://github.com/CScorza/OSINT-I.A./assets/98583912/e8398f97-fd3f-41ea-a45f-4dc229c8c5c3)
 
