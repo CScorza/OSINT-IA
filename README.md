@@ -125,6 +125,7 @@ Below is a list of useful tools for various activities.
 **For YouTube**
 | --- |
 |[**YouTube Tran Script**](https://youtubetranscript.com/)|
+|[**GetYouTubeTranscript**](https://getyoutubetranscript.com)|
 
 ![trascrivere-audio-testo-offline](https://github.com/CScorza/OSINT-I.A./assets/98583912/2174830d-51e7-44e7-9a34-ae7e8f665b4f)
 
